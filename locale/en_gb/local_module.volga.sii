@@ -1,0 +1,55 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+		key[]: "tz_samt"
+		val[]: "SAMT" #Samara Time
+
+
+	#COUNTRIES
+		key[]: "russia"
+		val[]: "Russia"
+
+
+	#CITIES
+		key[]: "buguruslan"
+		val[]: "Buguruslan"
+
+		key[]: "buzuluk"
+		val[]: "Buzuluk"
+
+		key[]: "kurumoch"
+		val[]: "Kurumoch"
+
+		key[]: "novospasskoe"
+		val[]: "Novospasskoye"
+
+		key[]: "samara"
+		val[]: "Samara"
+
+		key[]: "sennoi"
+		val[]: "Sennoi"
+
+		key[]: "sizran"
+		val[]: "Syzran"
+
+		key[]: "tolyatti"
+		val[]: "Tolyatti"
+
+		key[]: "volsk"
+		val[]: "Volsk"
+
+		key[]: "volzskiy"
+		val[]: "Volzhsky"
+
+		key[]: "yelshanka"
+		val[]: "Yelshanka"
+
+		key[]: "zelenovka"
+		val[]: "Zelenovka"
+
+		key[]: "zhigulevsk"
+		val[]: "Zhigulevsk"
+}
+}
