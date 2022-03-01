@@ -1,0 +1,146 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+	#	key[]: "WAT"
+	#	val[]: "West Africa Time"
+	
+	#COUNTRIES
+		key[]: "algeria"
+		val[]: "Algeria"
+		
+		key[]: "libya"
+		val[]: "Libya"
+		
+		key[]: "Morocco"
+		val[]: "Morocco"
+		
+		key[]: "tunisia"
+		val[]: "Tunisia"
+	
+	#CITIES	
+		key[]: "Alger"
+		val[]: "Algiers"
+		
+		key[]: "Aljmail"
+		val[]: "Jumayl"
+		
+		key[]: "Annaba"
+		val[]: "Annaba"
+		
+		key[]: "Badr"
+		val[]: "Badr"
+		
+		key[]: "Ben Gardane"
+		val[]: "Ben Gardane"
+		
+		key[]: "Bizerte"
+		val[]: "Bizerte"
+		
+		key[]: "Casablanca"
+		val[]: "Casablanca"
+		
+		key[]: "Constantine"
+		val[]: "Constantine"
+		
+		key[]: "Djerba Ajim"
+		val[]: "Ajim"
+		
+		key[]: "El Alia"
+		val[]: "El Alia"
+		
+		key[]: "Majez Al Bab"
+		val[]: "Majez al Bab"
+		
+		key[]: "El Kala"
+		val[]: "El Kala"
+		
+		key[]: "Le Kef"
+		val[]: "El Kef"
+		
+		key[]: "Gabes"
+		val[]: "Gabès"
+		
+		key[]: "Gafsa"
+		val[]: "Gafsa"
+		
+		key[]: "Hammamet"
+		val[]: "Hammamet"
+		
+		key[]: "Houmt Souk"
+		val[]: "Houmt Souk"
+		
+		key[]: "Houmt Souk"
+		val[]: "Houmt Souk"
+		
+		key[]: "Jorf"
+		val[]: "Jorf"
+		
+		key[]: "Kairouan"
+		val[]: "Kairouan"
+		
+		key[]: "Kasserine"
+		val[]: "Kasserine"
+		
+		key[]: "Kénitra"
+		val[]: "Kénitra"
+		
+		key[]: "Ksar El Kbir"
+		val[]: "El-Ksar el Kebir"
+		
+		key[]: "Larache"
+		val[]: "Larache"
+		
+		key[]: "Maghnia"
+		val[]: "Maghnia"
+		
+		key[]: "Medenine"
+		val[]: "Medenine"
+		
+		key[]: "Port Med Tangier"
+		val[]: "Tanger Med"
+		
+		key[]: "Mohammédia"
+		val[]: "Mohammedia"
+		
+		key[]: "Nefta"
+		val[]: "Nefta"
+		
+		key[]: "Kebili"
+		val[]: "Kebili"
+		
+		key[]: "Rabat"
+		val[]: "Rabat"
+		
+		key[]: "Salé"
+		val[]: "Salé"
+		
+		key[]: "Sfax"
+		val[]: "Sfax"
+		
+		key[]: "Skikda"
+		val[]: "Skikda"
+		
+		key[]: "Souk-Ahras"
+		val[]: "Souk Ahras"
+		
+		key[]: "Sousse"
+		val[]: "Sousse"
+		
+		key[]: "Tangier"
+		val[]: "Tangier"
+		
+		key[]: "Tiji"
+		val[]: "Tiji"
+		
+		key[]: "Tunis"
+		val[]: "Tunis"
+		
+		key[]: "Zelten"
+		val[]: "Zalten"
+		
+		key[]: "Zuwara"
+		val[]: "Zuwarah"
+}
+}
